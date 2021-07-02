@@ -1,2 +1,0 @@
-print("harikasın")
-#bunu göndermemeli
